@@ -1,3 +1,5 @@
 new file
 
 первый комит
+
+news.html added
