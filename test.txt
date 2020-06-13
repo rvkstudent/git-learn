@@ -1,3 +1,5 @@
 new file
 
 первый комит
+
+deatached head
