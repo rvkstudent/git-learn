@@ -2,4 +2,8 @@ new file
 
 первый комит
 
+
 new func added
+
+deatached head
+
